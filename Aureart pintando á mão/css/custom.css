@@ -1,0 +1,62 @@
+body{background-color:#ffffff;}
+
+header{background-color: #000;}
+
+h1
+
+{
+    font-style: italic;
+    font-size: 80px;
+    font-family: times;
+    text-align:center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:#ecf937;
+    color: rgb(255, 255, 255);
+}
+
+h2
+
+{
+    font-style: italic; 
+    font-size: 30px;
+    font-family: times;
+    text-align:center;
+    font-weight:bold;
+}
+
+h3
+
+{
+    font-style: italic; 
+    font-size: 30px;
+    font-family: times;
+    text-align:right;
+    font-weight:bold;
+
+}
+
+p
+
+{
+    font-style: normal;
+    font-size: 20px;
+    font-family: times;
+    text-align:center;
+}
+
+html 
+{
+    scroll-behavior: smooth;
+}  
+#section1
+{
+    height: 10px;
+}
+#section2 
+{
+    height: 10px;
+    font-style: normal;
+    font-size: 20px;
+    font-family: times;
+    text-align:center;
+}
